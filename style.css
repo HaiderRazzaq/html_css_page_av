@@ -6,5 +6,11 @@ body{
     background-image: linear-gradient(black,blue);
     height:100vh;
     display: flex;
-    
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-image: url(avatar.webp);
+    width: 92%;
+    height: 90%;
 }
