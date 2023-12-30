@@ -3,7 +3,12 @@
     background-color: #222;
     color: azure;
     overflow: hidden;
+    text-align: center;
 }
 .li-nav{
     float: right;
+}
+.p-nav{
+font-size: 30px;
+display: inline;
 }
